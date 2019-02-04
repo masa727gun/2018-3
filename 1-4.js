@@ -1,5 +1,5 @@
 function nazo(){
-if(document.getElementById('answer').value=='夢'){
+if(document.getElementById('answer').value=='イギリス'){
 alert('あたり！');
 }
   else{
